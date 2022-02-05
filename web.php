@@ -14,7 +14,7 @@ WEB SHELL
         <tr><td>&nbsp;</td></tr>
         <tr>
             <td colspan="2" style="text-align: center;">
-                <input type="sumit" value="Ejecutar Comando" />
+                <input type="submit" value="Ejecutar Comando" />
             </td>
         </tr>
     </table>
